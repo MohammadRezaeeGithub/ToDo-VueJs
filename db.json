@@ -1,0 +1,25 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "name": "Reading Book",
+      "done": true,
+      "createdAt": "01/01/20205",
+      "priority": "High"
+    },
+    {
+      "id": 2,
+      "name": "Do something",
+      "done": false,
+      "createdAt": "17/02/20205",
+      "priority": "Mid"
+    },
+    {
+      "id": 3,
+      "name": "Coocking",
+      "done": false,
+      "createdAt": "15/03/20205",
+      "priority": "Low"
+    }
+  ]
+}
